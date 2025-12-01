@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Slither",
+  "description": "A high-performance, multiplayer-style snake game featuring AI-generated commentary and usernames.",
+  "requestFramePermissions": []
+}
